@@ -1,0 +1,7 @@
+{
+  "name": "Valshe Dates Web App",
+  "description": "A React and Node app to create, manage and sell dating events",
+  "repository": "https://github.com/vpdwebdesign/valshe-dates",
+  "logo": "",
+  "keywords": ["valshe", "dates", "react"]
+}
