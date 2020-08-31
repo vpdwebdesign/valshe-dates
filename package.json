@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "start": "live-server dist/",
+    "start": "npm run dev-server",
     "serve": "live-server dist/",
     "build": "cross-env NODE_ENV=production webpack --config webpack/prod.config.js",
     "dev-server": "webpack-dev-server --open --config webpack/dev.config.js",
